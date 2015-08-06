@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JPMCAtmLocator</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_btn_find">Find</string>
+
+    <string-array name="place_type">
+
+        <item>atm</item>
+
+     </string-array>
+
+    <string-array name="place_type_name">
+
+        <item>ATM</item>
+
+    </string-array>
+</resources>
+
+
